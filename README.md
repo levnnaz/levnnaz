@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Nazar! <br/>
 
-<!--
-**levnnaz/levnnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algos in Python]()
+- <b> OOP in Python Practice </b>
+  - [Paradigms of Programming] ()
+- <b> FP in Scheme </b>
+  - [Scheme Prog language]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/nazar-levchuk1
