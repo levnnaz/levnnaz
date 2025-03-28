@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python]()
 - <b> OOP in Python Practice </b>
-  - [Paradigms of Programming] (https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
+  - [Paradigms of Programming](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
 - <b> FP in Scheme </b>
   - [Scheme Prog language](https://github.com/levnnaz/Family_tree_scheme/blob/main/Nazar_Levchuk-Code_CW2.rkt)
 
