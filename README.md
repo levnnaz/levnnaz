@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python]()
+  - [Praciting DS & Algos in Python](https://github.com/levnnaz/DS-and-Algorithms/blob/main/README.md)
 - <b> OOP in Python Practice </b>
   - [Paradigms of Programming](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/Coursework_1_full_code.py)
 - <b> FP in Scheme </b>
