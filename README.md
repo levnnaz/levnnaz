@@ -4,7 +4,7 @@
 
 - <b>SOC SIEM Home Lab </b>
   - [SIEM-Home-Lab](https://github.com/levnnaz/siem-home-lab/blob/main/README.md)
-- <b>Data Structures and Algorithms Practice </b>
+- <b>Unique Prime Numbers “Hidden” in Binary Strings</b>
   - [DS & Algos in Python](https://github.com/levnnaz/DS-and-Algorithms/blob/main/README.md)
 - <b> OOP in Python Practice </b>
   - [Paradigms of Programming](https://github.com/levnnaz/Family-tree-in-Python-/blob/main/README.md)
