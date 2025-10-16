@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>SOC SIEM Home Lab </b>
+  - [SIEM-Home-Lab](https://github.com/levnnaz/siem-home-lab/blob/main/README.md)
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/levnnaz/DS-and-Algorithms/blob/main/README.md)
 - <b> OOP in Python Practice </b>
